@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ece25970-7f4f-4208-bc18-d098e9820ade" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossBrowsertesting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtentReport.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParallelTestingwithCrossBrowser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seleniumgrid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/AlertClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/AuthenticationPopup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/AutosugestiveDropwdownDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/BootStrapDropdownDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/BrowserOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/BrowserWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/CheckboxAndRadioButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/CloseSpecificBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/ConditionalMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/DynamicTableWithNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/FrameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/GetMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/HiddenDropdownDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/LocatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/MultiSelectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/NavigatemethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/SelectDropdownDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/StaticWebtableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/SynchronizationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/WindowHandlesAndSwitchToWIndow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/AccountRegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/MyAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/TC003LoginDDTtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/TC01AccountRegistrationtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/TC02Logintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DataProviders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdata/Opencart_LoginData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2k1OXNZdQ3ms3FzSR36er500nBT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlertClassDemo.executor": "Run",
+    "Application.AuthenticationPopup.executor": "Run",
+    "Application.AutosugestiveDropwdownDemo.executor": "Run",
+    "Application.BootStrapDropdownDemo.executor": "Debug",
+    "Application.BrowserOperation1.executor": "Run",
+    "Application.BrowserWindow.executor": "Run",
+    "Application.CheckboxAndRadioButtons.executor": "Run",
+    "Application.ConditionalMethodsDemo.executor": "Run",
+    "Application.DynamicTableWithNavigation.executor": "Run",
+    "Application.FrameDemo.executor": "Run",
+    "Application.GetMethodsDemo.executor": "Run",
+    "Application.HiddenDropdownDemo.executor": "Run",
+    "Application.LocatorsDemo1.executor": "Debug",
+    "Application.MultiSelectDemo.executor": "Run",
+    "Application.NavigatemethodsDemo.executor": "Run",
+    "Application.SelectDropdownDemo.executor": "Run",
+    "Application.StaticWebtableDemo.executor": "Run",
+    "Application.SynchronizationDemo.executor": "Run",
+    "Application.WindowHandlesAndSwitchToWIndow.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/CrossBrowsertesting.xml.executor": "Run",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/Docker.xml.executor": "Run",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/ExtentReport.xml.executor": "Run",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/ParallelTestingwithCrossBrowser.xml.executor": "Run",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/grouping.xml.executor": "Debug",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/seleniumgrid.xml.executor": "Run",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/testng.xml.executor": "Debug",
+    "TestNG.TC01AccountRegistrationtest (1).executor": "Run",
+    "TestNG.TC01AccountRegistrationtest (2).executor": "Run",
+    "TestNG.TC01AccountRegistrationtest (3).executor": "Run",
+    "TestNG.TC01AccountRegistrationtest (4).executor": "Run",
+    "TestNG.TC01AccountRegistrationtest (5).executor": "Run",
+    "TestNG.TC01AccountRegistrationtest.executor": "Run",
+    "TestNG.TC01AccountRegistrationtest.validateAccountRegistration.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/resources",
+    "onboarding.tips.debug.path": "C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/main/java/org/appu/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "two.files.diff.last.used.folder": "C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/resources"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\003J72744\Desktop\TestingAcademyAT\Workspace_AT\SeleniumSDET\src\test\resources" />
+      <recent name="C:\Users\003J72744\Desktop\TestingAcademyAT\Workspace_AT\SeleniumSDET\src\test\java\utilities" />
+      <recent name="C:\Users\003J72744\Desktop\TestingAcademyAT\Workspace_AT\SeleniumSDET\testdata" />
+      <recent name="C:\Users\003J72744\Desktop\TestingAcademyAT\Workspace_AT\SeleniumSDET\src\test" />
+      <recent name="C:\Users\003J72744\Desktop\TestingAcademyAT\Workspace_AT\SeleniumSDET\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testcases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/Docker.xml">
+    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/Docker.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumSDET" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Docker.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/ExtentReport.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumSDET" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ExtentReport.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="utilities.ExtentReportManager" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/grouping.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumSDET" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/grouping.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/seleniumgrid.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumSDET" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/seleniumgrid.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumSDET" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/Docker.xml" />
+        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/seleniumgrid.xml" />
+        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/ExtentReport.xml" />
+        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/grouping.xml" />
+        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ece25970-7f4f-4208-bc18-d098e9820ade" name="Changes" comment="" />
+      <created>1722447655901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722447655901</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/appu/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/BootStrapDropdownDemo.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/DynamicTableWithNavigation.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/TC01AccountRegistrationtest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/TC01AccountRegistrationtest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/BaseClass.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/TC003LoginDDTtest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/TC003LoginDDTtest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/TC02Logintest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

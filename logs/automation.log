@@ -1,0 +1,4 @@
+2024-08-19 00:09:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\003J72744\Desktop\TestingAcademyAT\Workspace_AT\SeleniumSDET\testng.xml"
+2024-08-19 00:09:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\003J72744\Desktop\TestingAcademyAT\Workspace_AT\SeleniumSDET\testng.xml"
+2024-08-19 00:09:56 INFO  TC02Logintest:16 - validateLoginWithValidCredentials Started
+2024-08-19 00:10:10 INFO  TC02Logintest:25 - validateLoginWithValidCredentials Ended
