@@ -5,58 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ece25970-7f4f-4208-bc18-d098e9820ade" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CrossBrowsertesting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docker.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtentReport.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParallelTestingwithCrossBrowser.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seleniumgrid.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/AlertClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/AuthenticationPopup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/AutosugestiveDropwdownDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/BootStrapDropdownDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/BrowserOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/BrowserWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/CheckboxAndRadioButtons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/CloseSpecificBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/ConditionalMethodsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/DynamicTableWithNavigation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/FrameDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/GetMethodsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/HiddenDropdownDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/LocatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/MultiSelectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/NavigatemethodsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/SelectDropdownDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/StaticWebtableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/SynchronizationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/WindowHandlesAndSwitchToWIndow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/AccountRegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/MyAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/TC003LoginDDTtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/TC01AccountRegistrationtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/TC02Logintest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DataProviders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/Opencart_LoginData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/DataParameterizationUsingXMlFIle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/DataParameterizationXMlFIle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/DataProvider1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/DataProviderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/HardAndSoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/ParallelTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/paralleltesting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngpractise.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng1.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CLNandeesh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CLNandeesh/Selenium-Test-NG-Hybrid-Framework---SDET-2024.git&quot;,
+    &quot;accountId&quot;: &quot;a8e51bd6-cafc-499b-8f63-463a2c9133bd&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -107,13 +79,22 @@
     "Application.WindowHandlesAndSwitchToWIndow.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Annotations.executor": "Run",
+    "TestNG.Annotations.openApp.executor": "Run",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/CrossBrowsertesting.xml.executor": "Run",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/Docker.xml.executor": "Run",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/ExtentReport.xml.executor": "Run",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/ParallelTestingwithCrossBrowser.xml.executor": "Run",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/grouping.xml.executor": "Debug",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/seleniumgrid.xml.executor": "Run",
-    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/testng.xml.executor": "Debug",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/DataParameterizationXMlFIle.xml.executor": "Run",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/paralleltesting.xml.executor": "Run",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/testng.xml.executor": "Run",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/testngpractise.xml.executor": "Run",
+    "TestNG.DataProvider1 (1).executor": "Run",
+    "TestNG.DataProvider1 (2).executor": "Run",
+    "TestNG.DataProvider1.executor": "Run",
+    "TestNG.ParallelTesting.executor": "Run",
     "TestNG.TC01AccountRegistrationtest (1).executor": "Run",
     "TestNG.TC01AccountRegistrationtest (2).executor": "Run",
     "TestNG.TC01AccountRegistrationtest (3).executor": "Run",
@@ -121,13 +102,13 @@
     "TestNG.TC01AccountRegistrationtest (5).executor": "Run",
     "TestNG.TC01AccountRegistrationtest.executor": "Run",
     "TestNG.TC01AccountRegistrationtest.validateAccountRegistration.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/resources",
     "onboarding.tips.debug.path": "C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/main/java/org/appu/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
+    "project.structure.side.proportion": "0.25172412",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "two.files.diff.last.used.folder": "C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/resources"
   }
@@ -144,10 +125,10 @@
       <recent name="testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/Docker.xml">
-    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/Docker.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/paralleltesting.xml">
+    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/DataParameterizationXMlFIle.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumSDET" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Docker.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng/DataParameterizationXMlFIle.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -155,30 +136,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/ExtentReport.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/paralleltesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumSDET" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/ExtentReport.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners>
-        <listener class="utilities.ExtentReportManager" />
-      </listeners>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/grouping.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumSDET" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/grouping.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng/paralleltesting.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -186,20 +146,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/seleniumgrid.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProvider1 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumSDET" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/seleniumgrid.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng" />
+      <option name="MAIN_CLASS_NAME" value="testng.DataProvider1" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProvider1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumSDET" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng" />
+      <option name="MAIN_CLASS_NAME" value="testng.DataProvider1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelTesting" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumSDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng" />
+      <option name="MAIN_CLASS_NAME" value="testng.ParallelTesting" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -208,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/Docker.xml" />
-        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/seleniumgrid.xml" />
-        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/ExtentReport.xml" />
-        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/grouping.xml" />
-        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/paralleltesting.xml" />
+        <item itemvalue="TestNG.ParallelTesting" />
+        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/DataParameterizationXMlFIle.xml" />
+        <item itemvalue="TestNG.DataProvider1 (2)" />
+        <item itemvalue="TestNG.DataProvider1" />
       </list>
     </recent_temporary>
   </component>
