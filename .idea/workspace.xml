@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ece25970-7f4f-4208-bc18-d098e9820ade" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/Annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/DataParameterizationUsingXMlFIle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/DataParameterizationXMlFIle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/DataProvider1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/DataProviderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/HardAndSoftAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/ParallelTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/paralleltesting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngpractise.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/ExtentReportDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/ListenerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/TestngListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/extentreport.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng/listeners.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testng/paralleltesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testng/paralleltesting.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +86,8 @@
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/grouping.xml.executor": "Debug",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/seleniumgrid.xml.executor": "Run",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/DataParameterizationXMlFIle.xml.executor": "Run",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/extentreport.xml.executor": "Run",
+    "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/listeners.xml.executor": "Run",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/paralleltesting.xml.executor": "Run",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/testng.xml.executor": "Run",
     "TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/testngpractise.xml.executor": "Run",
@@ -125,10 +125,30 @@
       <recent name="testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/paralleltesting.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/extentreport.xml">
     <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/DataParameterizationXMlFIle.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumSDET" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng/DataParameterizationXMlFIle.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/extentreport.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumSDET" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng/extentreport.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/listeners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumSDET" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng/listeners.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -140,40 +160,6 @@
       <module name="SeleniumSDET" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng/paralleltesting.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProvider1 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumSDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testng" />
-      <option name="MAIN_CLASS_NAME" value="testng.DataProvider1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProvider1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumSDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testng" />
-      <option name="MAIN_CLASS_NAME" value="testng.DataProvider1" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -199,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/extentreport.xml" />
+        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/listeners.xml" />
         <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/paralleltesting.xml" />
         <item itemvalue="TestNG.ParallelTesting" />
         <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/DataParameterizationXMlFIle.xml" />
-        <item itemvalue="TestNG.DataProvider1 (2)" />
-        <item itemvalue="TestNG.DataProvider1" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +251,16 @@
           <url>file://$PROJECT_DIR$/src/test/java/testcases/TC02Logintest.java</url>
           <line>15</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testng/ListenerInterface.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testng/ExtentReportManager.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
