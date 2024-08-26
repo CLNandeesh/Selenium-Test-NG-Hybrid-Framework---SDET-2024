@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ece25970-7f4f-4208-bc18-d098e9820ade" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/ExtentReportDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/ExtentReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/ListenerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/TestngListenersDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/extentreport.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/listeners.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/paralleltesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testng/paralleltesting.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
