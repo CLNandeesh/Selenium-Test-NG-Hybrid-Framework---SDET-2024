@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ece25970-7f4f-4208-bc18-d098e9820ade" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/ActionsClassDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/appu/seleniumbasics/ActionsClassRightClick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +49,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ActionsClassDemo1.executor": "Run",
+    "Application.ActionsClassRightClick.executor": "Run",
     "Application.AlertClassDemo.executor": "Run",
     "Application.AuthenticationPopup.executor": "Run",
     "Application.AutosugestiveDropwdownDemo.executor": "Run",
@@ -116,13 +120,29 @@
       <recent name="testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/extentreport.xml">
-    <configuration name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/DataParameterizationXMlFIle.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ActionsClassRightClick">
+    <configuration name="ActionsClassDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.appu.seleniumbasics.ActionsClassDemo1" />
       <module name="SeleniumSDET" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng/DataParameterizationXMlFIle.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.appu.seleniumbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActionsClassRightClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.appu.seleniumbasics.ActionsClassRightClick" />
+      <module name="SeleniumSDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.appu.seleniumbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,30 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParallelTesting" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumSDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testng" />
-      <option name="MAIN_CLASS_NAME" value="testng.ParallelTesting" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ActionsClassRightClick" />
+        <item itemvalue="Application.ActionsClassDemo1" />
         <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/extentreport.xml" />
         <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/listeners.xml" />
         <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/paralleltesting.xml" />
-        <item itemvalue="TestNG.ParallelTesting" />
-        <item itemvalue="TestNG.C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/SeleniumSDET/src/test/java/testng/DataParameterizationXMlFIle.xml" />
       </list>
     </recent_temporary>
   </component>
